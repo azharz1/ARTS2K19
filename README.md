@@ -11,5 +11,9 @@ Steps to explore AR in TechnoStream:
 2. After downloading and installing ARTS, run the app, wait for a few seconds to let the app
 load the required resources. 
 
-3. After the camera is up and working, point it on the following image and I am not going to
-tell you what will happen if you will scan it, you will see the results directly! Hope you will enjoy the app and our new little innovation we tried to implement. Also, if you have any suggestions or review or any kind of ideas to share with us, please email us on the following email address: artsmag2k19@gmail.com
+3. After the camera is up and working, point it on the following image and you will see the results directly!
+
+![AR Marker](image pointer.png)
+Format: !
+
+Hope you will enjoy the app and our new little innovation we tried to implement. Also, if you have any suggestions or review or any kind of ideas to share with us, please email us on the following email address: artsmag2k19@gmail.com
