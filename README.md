@@ -12,7 +12,7 @@ Steps to explore AR in TechnoStream:
 
 1. Download the Android app, ARTS, short for Augmented Reality TechnoStream, from the following link:
 
-(bit.ly/ARTS19)
+[ARTS2K19](bit.ly/ARTS19)
 
 (Please keep at least 400 MB of free space in your mobile phone to download and install the app and trust me, it is worth the size!)
 
