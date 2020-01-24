@@ -13,7 +13,6 @@ load the required resources.
 
 3. After the camera is up and working, point it on the following image and you will see the results directly!
 
-![AR Marker](image pointer.png)
-Format: !
+![alt text](https://github.com/azharz1/ARTS2K19/blob/master/Image%20Pointer.PNG)
 
 Hope you will enjoy the app and our new little innovation we tried to implement. Also, if you have any suggestions or review or any kind of ideas to share with us, please email us on the following email address: artsmag2k19@gmail.com
