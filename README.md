@@ -2,7 +2,9 @@
 
 It gives me an immense pleasure to introduce you all to a fairly new innovation we tried to integrate with our college magazine - Prof Ram Meghe College of Engineering and Management's (PRMCEAM) TechnoStream 2K19, which is known as Augmented Reality (AR).If you are attached to technology, you have probably heard of AR. AR is a bridge between software and human, it allows us to interact with the virtual digital world embedded in the real world through digital devices.
 
-Here in the photo gallery, you will see several photos with the AR logo: The photos with this logo are scannable by our app which I will let you know shortly how to install and execute. You will see the different events of Engg...Joy 2019 (PRMCEAM's Cultural Fest) in a new way, this is not just a photo gallery, this is a video gallery!
+Here in the photo gallery, you will see several photos with the AR logo: 
+![alt text](https://github.com/azharz1/ARTS2K19/blob/master/AR%20Logo.PNG)
+The photos with this logo are scannable by our app which I will let you know shortly how to install and execute. You will see the different events of Engg...Joy 2019 (PRMCEAM's Cultural Fest) in a new way, this is not just a photo gallery, this is a video gallery!
 
 Steps to explore AR in TechnoStream:
 
